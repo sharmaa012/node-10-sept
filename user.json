@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Johnny",
+        "last_name": "McPhilip",
+        "email": "jmcphilip0@w3.org",
+        "gender": "Male",
+        "salary": 10000
+    },
+    {
+        "id": 2,
+        "first_name": "Breanne",
+        "last_name": "Pymer",
+        "email": "bpymer1@nba.com",
+        "gender": "Female",
+        "salary": 20000
+    },
+    {
+        "id": 3,
+        "first_name": "Julie",
+        "last_name": "Barbara",
+        "email": "jbarbara2@ocn.ne.jp",
+        "gender": "Female",
+        "salary": 30000
+    },
+    {
+        "id": 4,
+        "first_name": "Cam",
+        "last_name": "Blankley",
+        "email": "cblankley3@huffingtonpost.com",
+        "gender": "Male",
+        "salary": 15000
+    },
+    {
+        "id": 5,
+        "first_name": "Abel",
+        "last_name": "Wrightem",
+        "email": "awrightem4@i2i.jp",
+        "gender": "Male",
+        "salary": 16000
+    },
+    {
+        "id": 6,
+        "first_name": "Perl",
+        "last_name": "Matei",
+        "email": "pmatei5@theguardian.com",
+        "gender": "Female",
+        "salary": 19000
+    },
+    {
+        "id": 7,
+        "first_name": "Jaquelin",
+        "last_name": "Luney",
+        "email": "jluney6@dyndns.org",
+        "gender": "Female",
+        "salary": 25000
+    },
+    {
+        "id": 8,
+        "first_name": "Cheryl",
+        "last_name": "O'Noulane",
+        "email": "conoulane7@sciencedaily.com",
+        "gender": "Female",
+        "salary": 9000
+    },
+    {
+        "id": 9,
+        "first_name": "Bryant",
+        "last_name": "Wardington",
+        "email": "bwardington8@ustream.tv",
+        "gender": "Male",
+        "salary": 15000
+    },
+    {
+        "id": 10,
+        "first_name": "Jeannie",
+        "last_name": "Fylan",
+        "email": "jfylan9@feedburner.com",
+        "gender": "Female",
+        "salary": 17000
+    }
+]
